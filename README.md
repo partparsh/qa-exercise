@@ -58,4 +58,3 @@ Response Body:
 ## Tips:
 
 1. What is a proxy: https://en.wikipedia.org/wiki/Proxy_server
-2. You might need to create a downstream service for your testing ( see `config.py`, `PROXY_TARGET_HOST` and `PROXY_TARGET_PORT` to configure proxy to connect to downstream service)
